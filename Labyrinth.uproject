@@ -45,6 +45,13 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "FSR3",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
